@@ -12,6 +12,6 @@ Disallow: /pro-gallery-webapp/v1/galleries/*
 User-agent: PetalBot
 Disallow: /
 
-Sitemap: https://www.laranavarrete.com.mx/sitemap.xml
+Sitemap: https://xaz89.github.io/laranavarrete/sitemap.xml
 
 # Auto generated, go to SEO Tools > Robots.txt Editor to change this
